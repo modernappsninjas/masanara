@@ -1,3 +1,11 @@
+# Member Grade Report for masanara for test1  
+   
+Member_Github_Account_Login: masanara  
+Member_Github_Account_ID 1003115  
+Test_Name: test1  
+Test_Date: Wed Apr 14 01:19:55 UTC 2021  
+Course_URL: https://modernappsninja.github.io/introtanzustandard_ts7297/  
+   
 ---  
 #### test1 Individual Question Results:  
 Question1: Incorrect  
@@ -18,5 +26,5 @@ test1_Incorrect_Response_Count: 1
 #####  
 test1_Percent_Correct: 75.00%  
 #####  
-test1_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/masanara/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr53.test1.md)"
+test1_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/masanara/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr52.test1.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
