@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://modernappsninjas.github.io/masanara/"
-title = "ModernApps Ninja Member Page for null null"
+title = "ModernApps Ninja Member Page for Masanori Nara"
 theme = "educenter-hugo"
 # themesDir = "../.."
 # post pagination
@@ -90,7 +90,7 @@ expire_days = 2
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/null"
+link = "https://twitter.com/masanara"
 
 #[[params.social]]
 #title = "instagram"
